@@ -215,11 +215,11 @@ main {
     }
     .bg-top img {
         width: 100%;
-        content: url(/images/bg-pattern-top-mobile.svg);
+        content: url(images/bg-pattern-top-mobile.svg);
     }
     .bg-bottom img {
         width: 100%;
-        content: url(/images/bg-pattern-bottom-mobile.svg);
+        content: url(images/bg-pattern-bottom-mobile.svg);
         bottom: 0;
     }
     .box1 {
